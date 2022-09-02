@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alcool ou Gasolina</string>
+    <string name="main_subtitle">Saiba a melhor opção de abastecemiento do seu carro!</string>
+    <string name="logo_description">Um carro azul com uma placa grande azul escrito Alcool ou Gasolina</string>
+    <string name="main_input_price_alcohol">Preço álcool ex: 1.90</string>
+    <string name="main_input_price_gasoline">Preço gasolina ex: 2.60</string>
+    <string name="main_button_calculate">Calcular</string>
+    <string name="main_answer_empty">Por favor, preencha o campo vazio!</string>
+    <string name="main_answer_result">Melhor utilizar %1$s</string>
+    <string name="text_gasoline">Gasolina</string>
+    <string name="text_alcohol">Álcool</string>
+    <string name="toast_success">O calculo foi feito com sucesso</string>
+    <string name="toast_error">Deu alguma coisa errada!</string>
+</resources>

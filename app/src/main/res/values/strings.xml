@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alcohol or Gasoline</string>
+    <string name="main_subtitle">Find out the best option to fuel your car!</string>
+    <string name="logo_description">A blue car with a big blue sign in front of it, writed Alcohol or Gasoline</string>
+    <string name="main_input_price_alcohol">Alcohol price ex: 1.90</string>
+    <string name="main_input_price_gasoline">Gasoline price ex: 2.60</string>
+    <string name="main_button_calculate">Calculate</string>
+    <string name="main_answer_empty">Plz, fill up the empty field!</string>
+    <string name="main_answer_result">Better use %1$s</string>
+    <string name="text_gasoline">Gasoline</string>
+    <string name="text_alcohol">Alcohol</string>
+    <string name="toast_success">The calculation was done successfully</string>
+    <string name="toast_error">Something went wrong!</string>
+</resources>
